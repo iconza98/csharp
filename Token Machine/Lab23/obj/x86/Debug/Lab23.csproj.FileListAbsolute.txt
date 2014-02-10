@@ -1,0 +1,10 @@
+C:\Users\Weston\Google Drive\CS 1400\Lab23\Lab23\bin\Debug\Lab23.exe
+C:\Users\Weston\Google Drive\CS 1400\Lab23\Lab23\bin\Debug\Lab23.pdb
+C:\Users\Weston\Google Drive\CS 1400\Lab23\Lab23\obj\x86\Debug\Lab23.Form1.resources
+C:\Users\Weston\Google Drive\CS 1400\Lab23\Lab23\obj\x86\Debug\Lab23.Properties.Resources.resources
+C:\Users\Weston\Google Drive\CS 1400\Lab23\Lab23\obj\x86\Debug\Lab23.exe
+C:\Users\Weston\Google Drive\CS 1400\Lab23\Lab23\obj\x86\Debug\Lab23.pdb
+C:\Users\Weston\Google Drive\CS 1400\Lab23\Lab23\obj\x86\Debug\Lab23.Resource1.resources
+C:\Users\Weston\Google Drive\CS 1400\Lab23\Lab23\obj\x86\Debug\Lab23.Resources.Resource1.resources
+C:\Users\Weston\Google Drive\CS 1400\Lab23\Lab23\obj\x86\Debug\Lab23.csproj.GenerateResource.Cache
+C:\Users\Weston\Google Drive\CS 1400\Lab23\Lab23\obj\x86\Debug\Lab23.csprojResolveAssemblyReference.cache
